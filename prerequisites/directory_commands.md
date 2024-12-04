@@ -3,6 +3,7 @@
 
 ## 1. `pwd`
 **Description:** Used to display the location of the current working directory
+
 **Usage:**
 ```bash
 > pwd
@@ -12,6 +13,7 @@
 
 ## 2. `ls`
 **Description:** Used to display a list of content of a directory
+
 **Usage:**
 ```bash
 > ls
