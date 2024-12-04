@@ -6,8 +6,6 @@
 **Usage:**
 ```bash
 > pwd
-
 ---
-Output:
 /home/test_folder
 ```
