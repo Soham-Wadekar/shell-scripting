@@ -1,4 +1,4 @@
-![Shell Script](https://runcode-app-public.s3.amazonaws.com/images/bash-shell-script-online-editor-compiler.original.png)
+<img src="https://runcode-app-public.s3.amazonaws.com/images/bash-shell-script-online-editor-compiler.original.png" alt="Shell Scripting" width=100></img>
 # Shell Scripting Repository
 
 Welcome to the Shell Scripting Repository! This repository is a collection of shell scripts designed to automate tasks, demonstrate scripting concepts, and provide practical solutions to common problems.
