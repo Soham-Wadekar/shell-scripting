@@ -2,7 +2,7 @@
 ---
 
 ## 1. `pwd`
-**Description:** Used to display the location of the current working directory
+**Description:** Used to display the location of the current working directory \
 
 **Usage:**
 ```bash
