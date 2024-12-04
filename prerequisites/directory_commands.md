@@ -21,7 +21,7 @@ test_file1.txt  test_file3.txt  test_file5.txt  test_file7.txt  test_file9.txt
 ```
 
 ## 3. `mkdir`
-**Description:** Used to create a new directory under any directory
+**Description:** Used to create a new directory under any directory \
 **Usage:**
 ```bash
 > mkdir test_subfolder
@@ -32,7 +32,7 @@ test_file1.txt  test_file3.txt  test_file5.txt  test_file7.txt  test_file9.txt
 ```
 
 ## 4. `rmdir`
-**Description:** Used to delete a directory
+**Description:** Used to delete a directory \
 **Usage:**
 ```bash
 > rmdir test_subfolder
@@ -43,7 +43,7 @@ test_file1.txt  test_file3.txt  test_file5.txt  test_file7.txt  test_file9.txt
 ```
 
 ## 5. `cd`
-**Description:** Used to change the current directory
+**Description:** Used to change the current directory \
 **Usage:**
 ```bash
 > cd test_subfolder
@@ -53,7 +53,7 @@ test_file1.txt  test_file3.txt  test_file5.txt  test_file7.txt  test_file9.txt
 ```
 
 ## 6. `touch`
-**Description:** Used to create empty files. We can create multiple empty files by executing it once
+**Description:** Used to create empty files. We can create multiple empty files by executing it once \
 **Usage:**
 ```bash
 > touch sub_file.txt                        # One file
@@ -66,7 +66,7 @@ sub_file0.txt  sub_file2.txt  sub_file4.txt  sub_file6.txt  sub_file8.txt  sub_f
 ```
 
 ## 7. `cat`
-**Description:** Multi-purpose utility in the Linux system. It can be used to create a file, display content of the file, copy the content of one file to another file, and more.
+**Description:** Multi-purpose utility in the Linux system. It can be used to create a file, display content of the file, copy the content of one file to another file, and more \
 **Usage:**
 - Display Contents of a File
 ```bash
@@ -127,7 +127,7 @@ This is line 5 from test_file0.txt
 ```
 
 ## 8. `rm`
-**Description:** Used to remove a file
+**Description:** Used to remove a file \
 **Usage:**
 ```bash
 > ls
@@ -142,7 +142,7 @@ test_file0.txt     test_file2.txt  test_file4.txt  test_file6.txt  test_file8.tx
 ```
 
 ## 9. `cp`
-**Description:** Used to copy a file or directory
+**Description:** Used to copy a file or directory \
 **Usage:**
 ```bash
 > cp test_file0.txt copy_file.txt
@@ -158,7 +158,7 @@ This is line 5 from test_file0.txt
 ```
 
 ## 10. `mv`
-**Description:** Used to move a file or a directory form one location to another location
+**Description:** Used to move a file or a directory form one location to another location \
 **Usage:**
 ```bash
 > mv copy_file.txt sub_folder/
