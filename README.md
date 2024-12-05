@@ -20,7 +20,6 @@ The repository includes:
 ### Basics
 - File Permissions
 - Variables and Constants
-- Input/Output Redirection and Pipes
 
 ### Intermediates
 - Conditional Statements
