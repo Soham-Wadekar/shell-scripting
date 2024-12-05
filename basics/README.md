@@ -29,17 +29,17 @@ Executable program here...
 
 ### File Permissions
 
-There are three permissions in Linux Shell (read[r], write[w], execute[x]) for users, groups and others. \ 
-The syntax of the permissions is `<d><user_permissions(rwx)><group_permissions(rwx)><others_permissions(rwx)>` \
-Files typically start with `rw-` for the owner \
-Directories usually have `rwx` for the owner \
+There are three permissions in Linux Shell (read[r], write[w], execute[x]) for users, groups and others.  
+The syntax of the permissions is `<d><user_permissions(rwx)><group_permissions(rwx)><others_permissions(rwx)>` <br>
+Files typically start with `rw-` for the owner <br>
+Directories usually have `rwx` for the owner <br>
 
-To add a permission, use `+` and to remove a permission, use `-` \ 
-*Syntax:* \
+To add a permission, use `+` and to remove a permission, use `-` <br> 
+*Syntax:* <br>
 ```bash
 > chmod <user/group/other>[+|-]<permission> <filename>
 ```
-*Example:* \
+*Example:* <br>
 ```bash
 > chmod u+x test_file.sh                # Added execute permission to user
 ```
