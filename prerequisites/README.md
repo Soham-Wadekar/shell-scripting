@@ -6,10 +6,12 @@
 A handy reference for common Linux commands, organized by category.
 
 ## Table of Contents
+- Linux Terminology
 - Linux Directory Commands
 - Linux File Commands
 - Linux File Content Commands
 - Linux User Commands
 - Linux Filter Commands
 - Linux Utility Commands
-- Linux Networking Command
+- Linux Networking Commands
+- Linux RegEx
