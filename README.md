@@ -8,20 +8,13 @@ Welcome to the Shell Scripting Repository! This repository is a collection of sh
 The repository includes:
 
 ### Prerequisites
-- Basic Linux commands
-    - Linux Directory Commands
-    - Linux File Commands
-    - Linux File Content Commands
-    - Linux User Commands
-    - Linux Filter Commands
-    - Linux Utility Commands
-    - Linux Networking Command
+For Linux commands, refer [The Infinity Journal](https://github.com/Soham-Wadekar/the-infinity-journal/blob/main/linux/linux-commands.md)
 
-### Basics
+<!-- ## Basics
 - File Permissions
 - Variables and Constants
 
-### Intermediates
+## Intermediates
 - Conditional Statements
 - Loops
 - Functions
@@ -30,7 +23,7 @@ The repository includes:
 - Process Management
 - Scheduling Tasks
 
-### Advanced 
+## Advanced 
 - Advanced File Handling
 - Arrays
 - Debugging Scripts
@@ -39,4 +32,4 @@ The repository includes:
 - Networking
 - Advanced Text Processing and Manipulation
 - Subshells and Process Substitution
-- Signals and Traps
+- Signals and Traps -->
